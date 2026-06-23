@@ -185,8 +185,8 @@ local RepLSValues = RepLS.ScriptValues
 -- MODULES
 local CSF = require(MODULES.CSF)()
 
-script.Disabled = true
-script:Destroy()
+--script.Disabled = true
+--script:Destroy()
 
 
 local DIE
